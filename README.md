@@ -13,5 +13,3 @@ Obligatorio de **Taller de Tecnologías 1** (Universidad ORT, entrega 15/05/2023
 ```bash
 bash obligatorio.sh
 ```
-
-> **Trabajo en equipo (3 integrantes).** Hablalo con el resto del equipo antes de hacer este repo público.
